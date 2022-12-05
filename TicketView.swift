@@ -31,7 +31,7 @@ struct TicketView: View {
                     .foregroundColor(.white)
                     .fontWeight(.bold)
                 
-                Text("Once you buy a moviue ticket simply scan the barcode to get access to your movie.")
+                Text("Once you buy a movie ticket simply scan the barcode to get access to your movie.")
                     .frame(maxWidth: 248)
                     .font(.body)
                     .foregroundColor(.white)
